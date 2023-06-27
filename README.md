@@ -13,4 +13,4 @@ This app contains Miwok translations of basic words and phrases. Tapping any wor
 <br/>
 
 ###### The original app is called 'Miwok' as it contains Miwok vocabulary. 
-###### 'Apprendre' is simply the French verb that translates to 'to learn'. 
+###### 'Apprendre' is French for 'to learn'. 
